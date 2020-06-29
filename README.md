@@ -7,9 +7,6 @@ For more information about snippets: https://sublime-text.readthedocs.io/en/stab
 ## Adding Snippets
 In order to add these snippets to your local machine, place the `HTML Snippets` directory into the following path:
 
-## On a Mac:
-* ~/Library/Application Support/Sublime Text 3/Packages/User/
-
-## On a PC:
-* 
-
+### On a Mac:
+~/Library/Application Support/Sublime Text 3/Packages/User/
+### On a PC:
