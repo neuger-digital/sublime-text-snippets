@@ -1,12 +1,11 @@
-# Sublime Text Snippets
-## Overview
-This project contains resources for adding snippets to Sublime Text. Snippets are shortcuts for adding in reused sections.
+# Neuger Sublime Text 3 Snippets
+This project contains resources for adding snippets to Sublime Text 3. Snippets are shortcuts that will help you save time and be more consistent by templating common code.
 
 For more information about snippets: https://sublime-text.readthedocs.io/en/stable/extensibility/snippets.html
 
-## Adding Snippets
-In order to add these snippets to your local machine, place the `HTML Snippets` directory into the following path:
-
-### On a Mac:
-~/Library/Application Support/Sublime Text 3/Packages/User/
-### On a PC:
+## Installation
+### Adding Without Package Control:
+Save files to the  Snippets directory, then relaunch Sublime:
+* Linux: ~/.config/sublime-text-3/Packages/
+* Mac: ~/Library/Application Support/Sublime Text 3/Packages/User/
+* Windows: %APPDATA%/Sublime Text 3/Packages/
